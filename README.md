@@ -1,0 +1,2 @@
+# disSuptyper
+alias disSubtyper
